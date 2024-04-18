@@ -42,7 +42,7 @@ My role involves collaborating with cross-functional teams to translate user req
 
 ## Education
 - Global Doctor of Business Administration | Swiss School of Business and Management (_Anticipated Graduation: 2025_)								       		
-- Bachelor of Arts in Linguistics, Minor in French Language Studies | University of California, Berkeley (_2003_)
+- Bachelor of Arts in Linguistics, Minor in French Language Studies; Recipient of Cal & Wheeler Scholarships | University of California, Berkeley (_2003_)
 
 
 ## Licenses and Certifications
