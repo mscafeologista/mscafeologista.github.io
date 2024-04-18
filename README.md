@@ -5,8 +5,9 @@
 ## Professional Experience
 **Senior Technical Program Manager**
 <br>_Claims Letters (Oct 2023 - Present)_</br>
-- As a Senior Technical Program Manager, I am entrusted with the strategic direction and execution of Claims Letters’ product development initiatives.
-My role involves collaborating with cross-functional teams to translate user requirements into tangible product features and enhancements. By leveraging technology and driving innovation, I aim to deliver impactful solutions that meet both user needs and business objectives.
+<p>
+  As a Senior Technical Program Manager, I am entrusted with the strategic direction and execution of Claims Letters’ product development initiatives. My role involves collaborating with cross-functional teams to translate user requirements into tangible product features and enhancements. By leveraging technology and driving innovation, I aim to   deliver impactful solutions that meet both user needs and business objectives.
+</p>
 
 
 **Project Consultant**
