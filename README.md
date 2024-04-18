@@ -1,5 +1,5 @@
 # Alessandra Gutiérrez de Leon
-Highly accomplished IT strategist and leader with over 15 years of experience in driving successful software implementations and optimizing organizational workflows, resulting in enhanced operational efficiency and customer satisfaction. Skilled in leading cross-functional teams, fostering collaboration, and aligning technology solutions with business objectives to drive project success. A Tech Barista blending sharp tech and analytical skills with exceptional customer experiences and leadership abilities, ensuring optimal performance and delivery excellence.
+Senior Technical Program Manager | Certified Scrum Product Owner | Caféologist || IT Program Management | Business Analysis | Software Implementation | Customer Success Your strategic partner in Product Excellence
 
 
 ## Professional Experience
