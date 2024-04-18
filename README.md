@@ -56,21 +56,21 @@ Cal Scholarship and Wheeler Scholarship Recipient</p>
 _____
 
 ## Licenses and Certificates
-**Certified Scrum Product Owner (CSPO)**
+### Certified Scrum Product Owner (CSPO)
 <br>Scrum Alliance</br>
 Apr 2014</p>
 
 
-**Introduction to Agile Development and Scrum (With Honors)**
+### Introduction to Agile Development and Scrum (With Honors)
 <br>IBM</br>
 Mar 2024</p>
 
 
-**Business Process Automation in Microsoft 365: SharePoint, Power Platform**
+### SharePoint Design, Development, and Administration; Business Process Automation in SharePoint amd Power Platform
 <br>SPFest, 365 EduCon, M365 Conference, Microsoft Community Days, MS Cloud Events, Microsoft Ignite</br>
 2011 - 2023</p>
 
 
-**Technical Management Program**
+### Technical Management Program
 <br>UCLA</br>
 2017</p>
