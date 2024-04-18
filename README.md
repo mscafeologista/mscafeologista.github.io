@@ -4,7 +4,7 @@ Highly accomplished IT strategist and leader with over 15 years of experience in
 
 ## Professional Experience
 ### Senior Technical Program Manager
-<p>**Claims Letters**</p>
+**Claims Letters**
 Oct 2023 - Present
 <p>As a Senior Technical Program Manager, I am entrusted with the strategic direction and execution of Claims Letters’ product development initiatives. My role involves collaborating with cross-functional teams to translate user requirements into tangible product features and enhancements. By leveraging technology and driving innovation, I aim to deliver impactful solutions that meet both user needs and business objectives.</p>
 
