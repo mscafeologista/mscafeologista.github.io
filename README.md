@@ -11,6 +11,7 @@ Oct 2023 - Present
 My role involves collaborating with cross-functional teams to translate user requirements into tangible product features and enhancements. By leveraging technology and driving innovation, I aim to deliver impactful solutions that meet both user needs and business objectives.</p>
 
 
+
 ### Project Consultant
 **Javafyd**
 Oct 2023 - Present
