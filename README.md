@@ -49,7 +49,7 @@ Jun 2015 - Jun 2018
 _____
 
 ## Education
-**University of California Berkeley**
+### University of California Berkeley
 <br>Bachelor of Arts in Linguistics; Minor in French Language Studies</br>
 Cal Scholarship and Wheeler Scholarship Recipient</p>
 
