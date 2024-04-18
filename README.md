@@ -5,17 +5,18 @@
 ## Professional Experience
 **Senior Technical Program Manager**
 <br>_Claims Letters (Oct 2023 - Present)_</br>
-<p>As a Senior Technical Program Manager, I am entrusted with the strategic direction and execution of Claims Letters’ product development initiatives.
-My role involves collaborating with cross-functional teams to translate user requirements into tangible product features and enhancements. By leveraging technology and driving innovation, I aim to deliver impactful solutions that meet both user needs and business objectives.</p>
+> As a Senior Technical Program Manager, I am entrusted with the strategic direction and execution of Claims Letters’ product development initiatives.
+My role involves collaborating with cross-functional teams to translate user requirements into tangible product features and enhancements. By leveraging technology and driving innovation, I aim to deliver impactful solutions that meet both user needs and business objectives.
 
 
 **Project Consultant**
 <br>_Javafyd (Oct 2023 - Present)_</br>
-<p>As a Project Consultant at Javafyd, a one-person tech consultancy, I specialize in managing and executing projects that involve web design and social media marketing for small businesses and nonprofits, ensuring optimal functionality and an engaging user experience. Additionally, as a co-owner of 17miles coffee roasters, I wear multiple hats as the Project Manager, overseeing all aspects of IT, Marketing, Finance, and Legal domains, streamlining operations and amplifying our online presence. Beyond the boardroom, I find immense joy in curating exceptional coffee experiences. Whether orchestrating coffee tastings or personally catering to individual preferences at events, I seize every opportunity to share my passion for coffee with others.</p>
+> As a Project Consultant at Javafyd, a one-person tech consultancy, I specialize in managing and executing projects that involve web design and social media marketing for small businesses and nonprofits, ensuring optimal functionality and an engaging user experience. Additionally, as a co-owner of 17miles coffee roasters, I wear multiple hats as the Project Manager, overseeing all aspects of IT, Marketing, Finance, and Legal domains, streamlining operations and amplifying our online presence. Beyond the boardroom, I find immense joy in curating exceptional coffee experiences. Whether orchestrating coffee tastings or personally catering to individual preferences at events, I seize every opportunity to share my passion for coffee with others.
 
 
-**Senior Technical Program Manager @ GeoVera Insurance Group (_Sep 2022 - Apr 2023_)**
-<p>In my role as a Senior Technical Program Manager, I managed and executed multiple SharePoint projects, collaborating with business users across departments to gather business requirements and manage the development, testing, and implementation of automations and custom forms via Microsoft 365.</p>
+**Senior Technical Program Manager**
+<br>_GeoVera Insurance Group (Sep 2022 - Apr 2023)_
+>In my role as a Senior Technical Program Manager, I managed and executed multiple SharePoint projects, collaborating with business users across departments to gather business requirements and manage the development, testing, and implementation of automations and custom forms via Microsoft 365.
 
 
 **IT Manager @ GeoVera Insurance Group (_Aug 2014 - Sep 2022_)**
