@@ -1,7 +1,7 @@
 ## Professional Summary
 <p>Alessandra Gutiérrez de León is a highly accomplished IT strategist and leader with over 15 years of experience in driving successful software implementations and optimizing organizational workflows, resulting in enhanced operational efficiency and customer satisfaction. Skilled in leading cross-functional teams, fostering collaboration, and aligning technology solutions with business objectives to drive project success. A Tech Barista blending sharp tech and analytical skills with exceptional customer experiences and leadership abilities, ensuring optimal performance and delivery excellence.</p>
 
-## Horizontal Rules
+_____
 
 ## Professional Experience
 ### Senior Technical Program Manager
@@ -20,8 +20,7 @@ Oct 2023 - Present
 ### Senior Technical Program Manager
 **GeoVera Insurance Group**
 Sep 2022 - Apr 2023
-<p>In my role as a Senior Technical Program Manager, I managed and executed multiple SharePoint projects, collaborating with business users across
-departments to gather business requirements and manage the development, testing, and implementation of automations and custom forms via Microsoft 365.</p>
+<p>In my role as a Senior Technical Program Manager, I managed and executed multiple SharePoint projects, collaborating with business users across departments to gather business requirements and manage the development, testing, and implementation of automations and custom forms via Microsoft 365.</p>
 
 
 ### IT Manager
@@ -47,22 +46,22 @@ Jun 2015 - Jun 2018
 Jun 2015 - Jun 2018
 <p>The Seasonal Boutique Coffee Specialist role marked my first foray into coffee retail. Embracing this opportunity, I delved into hosting engaging coffee tastings and delivering hands-on tutorials on coffee machines. Through these interactions, I tapped into my inherent traits as an 'Educator' and 'Energizer,' passionately sharing my knowledge about coffee origins with customers and enriching their coffee experience, all while balancing these endeavors with my primary professional responsibilities.</p>
 
-## Horizontal Rules
+_____
 
 ## Education
 **University of California Berkeley**
--Bachelor of Arts in Linguistics; Minor in French Language Studies
--Cal Scholarship and Wheeler Scholarship Recipient
+- Bachelor of Arts in Linguistics; Minor in French Language Studies
+- Cal Scholarship and Wheeler Scholarship Recipient
 
-## Horizontal Rules
+_____
 
 ## Licenses and Certificates
 **Certified Scrum Product Owner (CSPO)**
-Scrum Alliance
-Apr 2014
+- Scrum Alliance
+- Apr 2014
 
 
-**Introduction to Agile Development and Scrum (With Honors)
+**Introduction to Agile Development and Scrum (With Honors)**
 IBM
 Mar 2024
 
