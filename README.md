@@ -50,8 +50,8 @@ _____
 
 ## Education
 **University of California Berkeley**
-- Bachelor of Arts in Linguistics; Minor in French Language Studies
-- Cal Scholarship and Wheeler Scholarship Recipient
+<br>Bachelor of Arts in Linguistics; Minor in French Language Studies</br>
+Cal Scholarship and Wheeler Scholarship Recipient</p>
 
 _____
 
@@ -62,15 +62,15 @@ Apr 2014</p>
 
 
 **Introduction to Agile Development and Scrum (With Honors)**
-IBM
-Mar 2024
+<br>IBM</br>
+Mar 2024</p>
 
 
 **Business Process Automation in Microsoft 365: SharePoint, Power Platform**
-M365 Conferences
-2011 - 2023
+<br>SPFest, 365 EduCon, M365 Conference, Microsoft Community Days, MS Cloud Events, Microsoft Ignite</br>
+2011 - 2023</p>
 
 
 **Technical Management Program**
-UCLA
-2017
+<br>UCLA</br>
+2017</p>
