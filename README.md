@@ -6,40 +6,44 @@ Senior Technical Program Manager | Certified Scrum Product Owner | Caféologist 
 ### Senior Technical Program Manager
 **Claims Letters**
 Oct 2023 - Present
-<p>As a Senior Technical Program Manager, I am entrusted with the strategic direction and execution of Claims Letters’ product development initiatives. My role involves collaborating with cross-functional teams to translate user requirements into tangible product features and enhancements. By leveraging technology and driving innovation, I aim to deliver impactful solutions that meet both user needs and business objectives.</p>
+<p>As a Senior Technical Program Manager, I am entrusted with the strategic direction and execution of Claims Letters’ product development initiatives.
+My role involves collaborating with cross-functional teams to translate user requirements into tangible product features and enhancements. By leveraging technology and driving innovation, I aim to deliver impactful solutions that meet both user needs and business objectives.</p>
 
 
 ### Project Consultant
 **Javafyd**
 Oct 2023 - Present
-In my role at Javafyd, a one-person tech consultancy, I navigate the complexities of diverse projects, each demanding meticulous attention and tailored solutions. At the core of my responsibilities is the end-to-end management of modern web pages and social media platforms, drawing upon my expertise in SDLC methodologies and SaaS low-code / no-code CMS. Central to my achievements is the development and rigorous testing of dynamic websites, finely tuned to meet the needs of small businesses and nonprofits. Through strategic implementation, I ensure optimal functionality and an intuitive user experience for each client.
-
-My work at Javafyd is characterized by a relentless commitment to excellence, innovation, and client satisfaction, evidenced by the successful execution of multifaceted projects across various domains.
+<p>As a Project Consultant at Javafyd, a one-person tech consultancy, I specialize in managing and executing projects that involve web design and social media marketing for small businesses and nonprofits, ensuring optimal functionality and an engaging user experience. Additionally, as a co-owner of 17miles coffee roasters, I wear multiple hats as the Project Manager, overseeing all aspects of IT, Marketing, Finance, and Legal domains, streamlining operations and amplifying our online presence. Beyond the boardroom, I find immense joy in curating exceptional coffee experiences. Whether orchestrating coffee tastings or personally catering to individual preferences at events, I seize every opportunity to share my passion for coffee with others.</p>
 
 
 ### Senior Technical Program Manager
 **GeoVera Insurance Group**
 Sep 2022 - Apr 2023
-In my role as a Senior Technical Program Manager, I led a remote team spanning various time zones, leveraging Microsoft SharePoint and Teams for seamless collaboration, ensuring our efforts remained closely aligned with business goals. The core of our mission was the migration of highly customized intranet sites on SharePoint On-Premises to SharePoint Online with the use of Power Platform. This involved meticulous analysis and documentation of requirements, end-to-end configuration and testing, and optimization of user experience. This holistic approach ensured enhanced functionality, ultimately contributing to the organization’s technological advancement.
+<p>In my role as a Senior Technical Program Manager, I managed and executed multiple SharePoint projects, collaborating with business users across
+departments to gather business requirements and manage the development, testing, and implementation of automations and custom forms via Microsoft 365.</p>
 
 
 ### IT Manager
 **GeoVera Insurance Group**
 Aug 2014 - Sep 2022
-In my leadership role at GeoVera, I provided direction to a team of business analysts and testing engineers, fostering a culture of excellence and continuous improvement to ensure our collective efforts remained aligned with organizational objectives.
-
-As a strategic leader, I orchestrated cross-functional collaboration for a diverse portfolio of projects. Notably, I appointed seasoned Senior Business Analysts to spearhead initiatives aimed at enhancing website functionality and user engagement. I provided hands-on guidance, drawing upon expertise in business analysis, project management, and quality assurance. This approach drove success across various business and infrastructure initiatives.
-
-Recognizing the importance of nurturing talent, I mentored a group of summer interns, aiding in their professional growth while optimizing business operations for major business units.
-
-In a significant technological transition, I led the efforts of migrating SharePoint On-Premises intranet sites to SharePoint Online. By designing and documenting migration strategies, coordinating testing, and delivering seamless transitions, I minimized disruption to business operations while advancing our technological capabilities.
+<p>In my dual role as IT Manager and SharePoint Specialist / Project Manager, I was at the forefront of aligning technology solutions with business objectives, driving innovation, and enhancing operational efficiency. I oversaw a team of skilled Business Analysts and QA testers, ensuring seamless collaboration between IT and business units to achieve organizational goals.</p>
 
 
 ### Senior Business Analyst Lead
 **GeoVera Insurance Group**
 Apr 2005 - Aug 2014
-During my tenure as a Senior Business Analyst, I played a central role in over 15 impactful projects across various business units. These projects focused on drafting comprehensive business requirement documents and conducting rigorous quality assurance testing, ultimately driving enhancements to the company’s primary customer websites.
+<p>In my capacity as a Senior Business Analyst, I played a pivotal role in driving transformative initiatives that aligned with the company's overarching goals. My responsibilities encompassed a broad spectrum of activities, including requirements analysis, process improvement, and stakeholder engagement.</p>
 
-Recognizing the importance of preparedness, I introduced intensive, hands-on sessions / lab setup and automated the creation of and distribution of training and testing materials with the use of VBA in Microsoft Word, Excel, and Outlook. This transformative approach significantly reduced pre-launch timelines, optimizing resource allocation and efficiency across project lifecycles. Further, the streamlined pre-training and training processes ensured the readiness of business users, resulting in improved customer satisfaction.
 
-My journey at GeoVera began as a Business Analyst, and through dedication and expertise, I earned a well-deserved promotion to Senior / Lead Business Analyst. This progression not only validated my commitment to excellence but also underscored my continued contributions to the organization’s success and growth.
+### Café Operations Advisor
+**Cup O'Geo**
+Jun 2015 - Jun 2018
+<p>When the CEO of the company where I served as an IT Manager decided to open a café exclusively for employees within the company office, my knowledge in coffee earned me the nomination to oversee its operations. I efficiently launched and staffed the café, initially assuming the role of café supervisor before progressing to become a trusted advisor in café operations. Despite the demands of balancing multiple responsibilities, I adeptly implemented both standard and seasonal menus, while also fostering a vibrant coffee culture among colleagues, creating an inviting atmosphere within our corporate environment.</p>
+
+
+### Boutique Coffee Specialist
+**Nestlé Nespresso SA**
+Jun 2015 - Jun 2018
+<p>The Seasonal Boutique Coffee Specialist role marked my first foray into coffee retail. Embracing this opportunity, I delved into hosting engaging coffee tastings and delivering hands-on tutorials on coffee machines. Through these interactions, I tapped into my inherent traits as an 'Educator' and 'Energizer,' passionately sharing my knowledge about coffee origins with customers and enriching their coffee experience, all while balancing these endeavors with my primary professional responsibilities.</p>
+
+
