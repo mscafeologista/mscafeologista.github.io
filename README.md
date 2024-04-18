@@ -57,8 +57,8 @@ _____
 
 ## Licenses and Certificates
 **Certified Scrum Product Owner (CSPO)**
-<p>Scrum Alliance</p>
-<p>Apr 2014</p>
+<br>Scrum Alliance</br>
+<br>Apr 2014</br>
 
 
 **Introduction to Agile Development and Scrum (With Honors)**
