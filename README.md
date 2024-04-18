@@ -57,4 +57,28 @@ Used **Matlab** to train over 100 machine learning models which estimated partic
 - Global Doctor of Business Administration | Swiss School of Business and Management (_Anticipated Graduation: 2025_)								       		
 - Bachelor of Arts in Linguistics, Minor in French Language Studies | University of California, Berkeley (_2003_)
 
+
+## Licenses and Certifications
+**Certified Scrum Product Owner (CSPO)**
+<br>_Scrum Alliance (Apr 2014)_</br>
+
+
+**Introduction to Agile Development and Scrum (With Honors)**
+<br>_IBM (Mar 2014)_</br>
+
+
+**Technical Management Program**
+<br>_UCLA (2017)_</br>
+
+
+**SharePoint Design, Development, and Administration; Business Process Automation in SharePoint amd Power Platform**
+<br>_SPFest, 365 EduCon, M365 Conference, Microsoft Community Days, MS Cloud Events, Microsoft Ignite (2011 - 2023)_</br>
+
+
+## Contact
+(510) 883-4908
+[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+
+[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+
 ![Bike Study](/assets/img/bike_study.jpeg)
