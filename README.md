@@ -2,6 +2,10 @@
 Senior Technical Program Manager | Certified Scrum Product Owner | Caféologist || IT Program Management | Business Analysis | Software Implementation | Customer Success Your strategic partner in Product Excellence
 
 
+## About Alessandra
+<p>Alessandra Gutiérrez de León is a highly accomplished IT strategist and leader with over 15 years of experience in driving successful software implementations and optimizing organizational workflows, resulting in enhanced operational efficiency and customer satisfaction. Skilled in leading cross-functional teams, fostering collaboration, and aligning technology solutions with business objectives to drive project success. A Tech Barista blending sharp tech and analytical skills with exceptional customer experiences and leadership abilities, ensuring optimal performance and delivery excellence.</p>
+
+
 ## Professional Experience
 ### Senior Technical Program Manager
 **Claims Letters**
@@ -47,3 +51,7 @@ Jun 2015 - Jun 2018
 <p>The Seasonal Boutique Coffee Specialist role marked my first foray into coffee retail. Embracing this opportunity, I delved into hosting engaging coffee tastings and delivering hands-on tutorials on coffee machines. Through these interactions, I tapped into my inherent traits as an 'Educator' and 'Energizer,' passionately sharing my knowledge about coffee origins with customers and enriching their coffee experience, all while balancing these endeavors with my primary professional responsibilities.</p>
 
 
+## Education
+**University of California Berkeley**
+<p>Bachelor of Arts in Linguistics; Minor in French Language Studies</p>
+<p>Cal Scholarship and Wheeler Scholarship Recipient</p>
