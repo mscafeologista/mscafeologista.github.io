@@ -76,7 +76,7 @@ Used **Matlab** to train over 100 machine learning models which estimated partic
 
 
 ## Contact
-(510) 883-4908
+(510) 883-4908</br>
 [Publication](https://www.mdpi.com/1424-8220/22/8/3048)
 
 [Publication](https://www.mdpi.com/1424-8220/22/8/3048)
