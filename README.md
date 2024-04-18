@@ -8,7 +8,7 @@
 <p>As a Senior Technical Program Manager, I am entrusted with the strategic direction and execution of Claims Letters’ product development initiatives.
 My role involves collaborating with cross-functional teams to translate user requirements into tangible product features and enhancements. By leveraging technology and driving innovation, I aim to deliver impactful solutions that meet both user needs and business objectives.</p>
 
-<p></p>
+
 **Project Consultant**
 <br>_Javafyd (Oct 2023 - Present)_</br>
 <p>As a Project Consultant at Javafyd, a one-person tech consultancy, I specialize in managing and executing projects that involve web design and social media marketing for small businesses and nonprofits, ensuring optimal functionality and an engaging user experience. Additionally, as a co-owner of 17miles coffee roasters, I wear multiple hats as the Project Manager, overseeing all aspects of IT, Marketing, Finance, and Legal domains, streamlining operations and amplifying our online presence. Beyond the boardroom, I find immense joy in curating exceptional coffee experiences. Whether orchestrating coffee tastings or personally catering to individual preferences at events, I seize every opportunity to share my passion for coffee with others.</p>
